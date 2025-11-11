@@ -1,0 +1,6 @@
+point_select
+read_only
+update_index
+update_non_index
+insert
+delete
